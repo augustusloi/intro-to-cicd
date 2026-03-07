@@ -1,4 +1,4 @@
-// Here's another comment
+// Here's another comment for fun
 function sayHi(name) {
   return `Hello ${name}`
 }
